@@ -1,6 +1,6 @@
-## Problem scenario:
+# Problem scenario:
 
-Suppose we have three types of characters in a GameApp:
+## Suppose we have three types of characters in a GameApp:
 
 1. Knight: Attacks with a sword; uses 3 strategies to defend (shield, dodge, magic barrier)
 2. Wizard: Casts spells; uses magic barrier to defend
