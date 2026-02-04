@@ -37,4 +37,8 @@ The following strategies define how a character attacks:
 
 1. CastSpell  
 2. ShootArrow  
-3. SwingSword  
+3. SwingSword
+
+## UML
+![Game Characters](https://github.com/shinramyeon22/StrategyPattern/blob/main/StrategyPattern.png)
+
